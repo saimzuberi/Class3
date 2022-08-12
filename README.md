@@ -1,2 +1,3 @@
 # Class3
-This is Class 3 Activity.
+## My name is Saim and i study at UoT.
+### This is my first code. 
